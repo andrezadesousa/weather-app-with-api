@@ -2,7 +2,8 @@
 
 ## 💻 Projeto
 - App de previsão do tempo que utiliza a API Openweathermap;
-- Demonstra hora e data do dia, os sete dias da semana e a previsão do tempo, tanto de dia quanto de noite. 
+- Demonstra hora, data e tempo do dia, em tempo real;
+- Demonstra os sete dias da semana e a previsão do tempo de cada um.
 
 ## 🧪 Tecnologias
 

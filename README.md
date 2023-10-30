@@ -13,4 +13,4 @@ Projeto desenvolvido em:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [API Openweathermap](https://openweathermap.org)
 
-<img src="https://github.com/andrezadesousa/andreza-portfolio/blob/master/src/images/portfolio.png?raw=true" />
+<img src="https://github.com/andrezadesousa/weather-app-with-api/blob/main/assets/image/bg.png" />

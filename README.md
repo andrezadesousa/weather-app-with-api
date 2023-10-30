@@ -12,3 +12,5 @@ Projeto desenvolvido em:
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [API Openweathermap](https://openweathermap.org)
+
+<img src="https://github.com/andrezadesousa/andreza-portfolio/blob/master/src/images/portfolio.png?raw=true" />
